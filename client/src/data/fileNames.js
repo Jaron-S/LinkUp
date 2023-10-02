@@ -1,0 +1,28 @@
+const fileNames = [
+  "info1.webp",
+  "linkedin.webp",
+  "twitter.webp",
+  "p1.webp",
+  "p2.webp",
+  "p3.webp",
+  "p4.webp",
+  "p5.webp",
+  "p6.webp",
+  "p7.webp",
+  "p8.webp",
+  "p9.webp",
+  "p10.webp",
+  "p11.webp",
+  "p12.webp",
+  "p13.webp",
+  "post1.webp",
+  "post2.webp",
+  "post3.webp",
+  "post4.webp",
+  "post5.webp",
+  "post6.webp",
+  "post7.webp",
+  "post8.webp",
+];
+
+export default fileNames;
